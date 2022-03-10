@@ -10,9 +10,3 @@ Content-Type: application/json
   "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
   "status": "SUBMITTED"
 }
-
-### Wyślij task - stary sposób (przeglądarka)
-GET http://localhost:8081/tasks/Task2
-Accept: application/json
-Content-Type: application/json
-
