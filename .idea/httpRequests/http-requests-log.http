@@ -1,0 +1,170 @@
+GET http://localhost:8081/tasks/Task2
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T122419.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-10T122409.200.json
+
+###
+
+GET http://localhost:8081/tasks/Task2
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T121819.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-10T121804.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-10T120648.200.json
+
+###
+
+GET http://localhost:8081/tasks/Task2
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T120624.200.json
+
+###
+
+GET http://localhost:8081/kafka/sendtask/Task2
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T120556.404.json
+
+###
+
+GET http://localhost:8081/kafka/sendtask/Task2
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T112940.200.json
+
+###
+
+GET http://localhost:8081/kafka/sendtask/Task1
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T112911.200.json
+
+###
+
+GET http://localhost:8081/kafka/sendtask/Task1
+
+<> 2022-03-10T112811.200.txt
+
+###
+
+POST http://localhost:8081/kafka/sendtask/Task1
+
+<> 2022-03-10T112803.405.json
+
+###
+
+POST https://localhost:8081/kafka/sendtask/Task1
+
+###
+
+POST http://localhost:8081/kafka/sendtask/Task1
+
+<> 2022-03-10T112733.405.json
+
+###
+
+POST http://localhost:8081/kafka/sendtask/Task1
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T112730.405.json
+
+###
+
+POST http://localhost:8081/kafka/sendtask/Task1
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T112726.405.json
+
+###
+
+POST http://localhost:8081/kafka/sendtask/Task1
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T112550.405.json
+
+###
+
+POST http://localhost:8081/kafka/sendtask/Task1
+
+<> 2022-03-10T112539.405.json
+
+###
+
+POST http://localhost:8081/kafka/sendtask/Task1
+Accept: application/json
+Content-Type: application/json
+
+<> 2022-03-10T111348.405.json
+
+###
+

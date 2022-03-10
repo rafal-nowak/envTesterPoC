@@ -1,0 +1,18 @@
+### Wyślij task
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+### Wyślij task - stary sposób (przeglądarka)
+GET http://localhost:8081/tasks/Task2
+Accept: application/json
+Content-Type: application/json
+
