@@ -1,7 +1,7 @@
-package pl.sages.javadevpro.projecttwo.external.env.controller.dto;
+package pl.sages.javadevpro.projecttwo.controller.dto;
 
 import org.mapstruct.Mapper;
-import pl.sages.javadevpro.projecttwo.external.env.domain.Task;
+import pl.sages.javadevpro.projecttwo.domain.Task;
 
 @Mapper(componentModel = "spring")
 public interface TaskMapper {

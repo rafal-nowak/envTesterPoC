@@ -1,4 +1,4 @@
-package pl.sages.javadevpro.projecttwo.external.env.controller.dto;
+package pl.sages.javadevpro.projecttwo.controller.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

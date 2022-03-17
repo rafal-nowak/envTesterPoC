@@ -1,3 +1,147 @@
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T170005.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T165808.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T165743.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T165552.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T165406.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T165321.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T165150.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T164958.200.json
+
+###
+
+POST http://localhost:8081/tasks
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": "111",
+  "name": "test 111",
+  "description": "Opis zadania ...",
+  "workspaceUrl": "/Users/rafalnowak/PycharmProjects/task1",
+  "status": "SUBMITTED"
+}
+
+<> 2022-03-17T164845.200.json
+
+###
+
 GET http://localhost:8081/tasks/Task2
 Accept: application/json
 Content-Type: application/json
